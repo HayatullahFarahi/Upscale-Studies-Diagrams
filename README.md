@@ -1,4 +1,5 @@
 Study Material Manager
+
 Study Material Manager is a project designed to help you organize, create, and manage study materials, documents, and diagrams as you upscale and learn. Whether you're studying for exams, learning new skills, or exploring topics of interest, this tool aims to streamline your learning process by providing a centralized platform for all your study resources.
 
 Features
