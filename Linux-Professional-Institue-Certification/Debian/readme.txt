@@ -1,0 +1,1 @@
+Debian is linux distribution, also used in Azure Function App and other resources
