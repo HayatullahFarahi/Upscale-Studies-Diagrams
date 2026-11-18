@@ -1,0 +1,8 @@
+# draw.io backup/lock files
+.$*.bkp
+.$*.dtmp
+
+# Foam / VS Code local state
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json

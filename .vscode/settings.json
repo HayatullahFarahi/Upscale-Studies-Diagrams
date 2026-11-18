@@ -1,0 +1,10 @@
+{
+  "foam.openDailyNote.directory": "journal",
+  "foam.openDailyNote.filenameFormat": "yyyy-mm-dd",
+  "foam.files.ignore": ["**/.vscode/**", "**/.dist/**", "**/node_modules/**"],
+  "foam.edit.linkReferenceDefinitions": "off",
+  "editor.wordWrap": "on",
+  "[markdown]": {
+    "editor.quickSuggestions": { "comments": "off", "strings": "off", "other": "off" }
+  }
+}
